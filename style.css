@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(#567e9c,#5D86A6,#6A90AD,#7699B4,#82A2BA);
+}
+
+.objects{
+    color: white;
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+#header{
+    width: 1000px;
+    font-size: 20px;
+}
+
+#camera{
+    border: 2px dashed #174b73;
+    width: 300px;
+    height: 300px;
+}
+
+#logo{
+    border-radius: 100px;
+    width: 75px;
+    height: 75px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
